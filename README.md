@@ -1,4 +1,4 @@
-# MyoCortex 🧠
+# MyoCortex - Multi Agent Medical Research Assistant using RAG
 
 Production-grade biomedical RAG research engine — PubMed + FAISS + LLM.
 Handles **any** biomedical query: supplements, drugs, diseases, interventions, nutrition.
